@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans|Playfair+Display+SC');
+/*@import url('https://fonts.googleapis.com/css?family=Open+Sans|Playfair+Display+SC');
 
 .App {
   padding: 1em;
@@ -26,13 +26,13 @@ img {
 
 /* zebra striping */
 
-tbody tr:nth-child(odd) {
+/*tbody tr:nth-child(odd) {
   background-color: #fff0c7;
 }
 
 /* typography */
 
-html {
+/*html {
   font-family: 'helvetica neue', sans-serif;
 }
 
@@ -56,7 +56,7 @@ td {
 
 /* spacing */
 
-table {
+/*table {
   table-layout: fixed;
   width: 100%;
   border-collapse: collapse;
@@ -73,7 +73,7 @@ table {
 
 /* Column Size for thead */
 
-thead th:nth-child(1) {
+/*thead th:nth-child(1) {
   width: 10%;
 }
 
@@ -98,7 +98,7 @@ thead th:nth-child(6) {
 }
 
 /* Column size for tbody */
-
+/*
 tbody td:nth-child(1) {
   width: 10%;
 }
@@ -122,3 +122,4 @@ tbody td:nth-child(5) {
 tbody td:nth-child(6) {
   width: 10%;
 }
+*/
